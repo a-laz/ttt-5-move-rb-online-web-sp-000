@@ -10,6 +10,3 @@ end
 def input_to_index(string)
   players_move = string.to_i - 1
 end
-
-  
-  
